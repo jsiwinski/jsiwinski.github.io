@@ -9,6 +9,7 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 ---
 #Mediator Formats and CSS features
 
+
 Examples for different formats and css features
 
 #Header Formats
