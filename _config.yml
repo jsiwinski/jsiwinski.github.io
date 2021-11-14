@@ -4,21 +4,21 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "BJJ Analytics"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Using analytics to predict UFC fights
 
-email: a-mail@mail.mail
+email: jsiwinski2@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
+logo:
+float_logo:
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover:
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Joe Siwinski'
+author: 'Joe Siwinski'
+author_image:
 
 paginate:	5
 
