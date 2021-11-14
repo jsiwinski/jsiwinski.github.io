@@ -3,6 +3,7 @@ gems:
   - jemoji
   - jekyll-paginate
 
+
 # Site settings
 title: "BJJ Analytics"
 description: > # this means to ignore newlines until "email:"
@@ -49,7 +50,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/jsiwinski
     desc:	Fork me on github
     share_url:
     share_title:
