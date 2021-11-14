@@ -4,6 +4,7 @@ gems:
   - jekyll-paginate
 
 
+
 # Site settings
 title: "BJJ Analytics"
 description: > # this means to ignore newlines until "email:"
