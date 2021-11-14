@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mediator Features"
-date:   2014-11-30 14:34:25
+title:  "UFC 271: Predictions"
+date:   2021-11-20
 categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
