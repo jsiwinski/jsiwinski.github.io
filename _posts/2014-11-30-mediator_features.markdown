@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "UFC 271: Predictions"
-date:   2021-11-20
-categories: mediator feature
-tags: featured
+date:   2022-01-20
+categories: mediator
+tags:
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
