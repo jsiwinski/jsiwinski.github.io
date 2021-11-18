@@ -6,6 +6,10 @@ categories: mediator
 tags:
 image: /assets/article_images/ufc271/UFCIzzy.jpeg
 image2: /assets/article_images/ufc271/UFCIzzy.jpeg
+output:
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
 ---
 
 # Card Preview
