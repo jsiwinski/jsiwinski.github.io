@@ -19,14 +19,14 @@ cover: "/assets/images/coverphoto.jpeg"
 
 name: 'Joe Siwinski'
 author: 'Joe Siwinski'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/joeski.jpeg"
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@Joe67127612'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
