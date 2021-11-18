@@ -4,14 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+As an avid UFC fan and forward analytical thinker, this website is devoted to utilizing Machine Learning techniques to make predict fights. In addition to fight predictions, BJJ Analytics sets out to utilize analytics to learn more about MMA in general.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I am an experienced analyst and bring experience from my roles with the OKC Thunder, New York Jets, and Charlotte Hornets to this website. Feel free to view my [LinkedIn](https://www.linkedin.com/in/joesiwinski/).
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
